@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "Mind Pay",
+    "slug": "projectmindpay",
+    "version": "2.0.2",
+    "orientation": "portrait",
+    "icon": "./assets/icon2.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "buildNumber": "3",
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mind.mindpay"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "android": {
+      "package": "com.mind.mindpay",
+      "useNextNotificationsApi": true,
+      "googleServicesFile": "./google-services.json"
+    }
+  }
+}

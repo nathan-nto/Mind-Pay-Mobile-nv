@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "97081836618",
+    "project_id": "mind-pay-560c0",
+    "storage_bucket": "mind-pay-560c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97081836618:android:ad10d16ce85e37058bd2b3",
+        "android_client_info": {
+          "package_name": "com.mind.mindpay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97081836618-t9d2j5csu6a9qfo2ug5049q6bigbb0u2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIysUphZxpsGB9HJ5nMh3Hlp0jSW1wjRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97081836618-t9d2j5csu6a9qfo2ug5049q6bigbb0u2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
